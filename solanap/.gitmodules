@@ -1,0 +1,6 @@
+[submodule "submodule-path"]
+  path = /home/satyam/Satyam/Satyam/Zapier/solanap/solana-todo-app
+  path = /home/satyam/Satyam/Satyam/Zapier/solanap/solana-app
+ 
+
+    url = https://github.com/CleverProgrammers/solana-todo-app.git
